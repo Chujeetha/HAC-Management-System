@@ -1,0 +1,92 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    
+    font-family: 'Arial';  
+   
+ background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("hostelspage.jpg");
+  background-size:cover;
+
+}
+
+.btn {
+  background-color: #d6a502; /* Blue background */
+  border: none; /* Remove borders */
+  color: black; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /change pointer hand when touches/
+}
+
+.btn:hover {
+  background-color: white;
+}
+
+.girls{
+ width: 300px;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    padding: 70px;  
+    box-shadow: 0px 2px 15px 10px #d6a502; 
+    border-radius: 15px ;  
+   background-image:no-repeat;
+
+      
+} 
+.boys{
+ width: 300px;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    padding: 70px;  
+    box-shadow: 0px 2px 15px 10px #d6a502; 
+    border-radius: 15px ;  
+   background-image:no-repeat;
+
+      
+} 
+h3{  
+text-align: center;  
+color:#d6a502;  
+padding: 20px;  
+font-size:40px;
+}  
+h1{  
+text-align: center;  
+color:#d6a502;  
+padding: 20px;  
+font-size:40px;
+}  
+
+#btn{
+width: 200px;  
+    height: 50px;  
+    border: none;  
+    border-radius: 5px; 
+    padding-left: 7px;  
+    align-content: center;
+    background:white;
+    color: 3px black;  
+    font-size: 16px;
+    border-top:2px solid #d6a502;
+border-left:2px solid #d6a502;
+border-right:2px solid #d6a502;
+border-bottom: 2px solid #d6a502; 
+}
+#btn:hover{
+    background-color: goldenrod;
+} 
+a:hover {
+  background-color: blue;
+  color:white;
+}
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color:white;  
+}

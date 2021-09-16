@@ -1,0 +1,182 @@
+.about
+{  
+    width: 520px;  
+    height:105px;
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    font-size: 15px;
+    padding: 30px;  
+    padding-top: 5px;  
+    padding-bottom: 72px;  
+    box-shadow: 0px 2px 15px 10px #d6a502; 
+    border-radius: 15px ;  
+   background-image:no-repeat;
+
+}
+.first{
+ 
+  //padding:10px 350px;
+  float:left;
+  padding:20px;
+  height:300px;
+}
+.login{  
+    
+    width: 805px;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    font-size:19px;
+    padding: 53px; 
+    padding-right:400px; 
+   // box-shadow: 0px 2px 15px 10px white;   
+   // background-image:no-repeat;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:75px;
+   height: 688px;
+    background-size: cover;
+            background-image: url("gold_white2.jpg");      
+}  
+#log:hover{
+    background-color: goldenrod;
+} 
+#log{
+    font-size:20px;
+}
+.second{
+ 
+  //padding:0 650px;
+  float:left;
+  padding:20px;
+  height:300px;
+}
+#about
+{
+padding-left:10px;
+}
+.footer
+{
+    background-color:black;
+    padding-top:1px;
+    color:goldenrod;
+    height:277px;
+}
+
+.one
+{
+display:inline-block;
+padding-right:190px;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+.one a
+{
+text-decoration:none;
+color:white;
+}
+.two
+{
+
+padding-left:180px;
+
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  color: white;
+}
+
+.fa-twitter {
+  color: white;
+}
+
+.fa-google {
+  color: white;
+}
+
+.fa-linkedin {
+  color: white;
+}
+
+
+
+.fa-instagram {
+  color: white;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-size: contain;
+    padding: 5px;
+            background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url("83-838296_web-designer-professional-website-background-images.jpg");
+  
+}
+div.hos
+{
+     position:relative;
+       float:left;
+      padding-left:270px;
+
+}
+.btn {
+  background-color: #d6a502; /* Blue background */
+  border: none; /* Remove borders */
+  color: black; /* White text */
+  padding: 12px 21px; /* Some padding */
+  cursor: pointer; /change pointer hand when touches/
+     border-radius: 15px ;  
+    font-family:Times New Roman;
+      font-size: 20px; /* Set a font size */
+}
+.para p{
+    text-align: center;
+    color: white;
+    padding-left: 100px;
+    font-size: 50px;
+}
+.btn:hover {
+  background-color: white;
+}
+
+div.can
+{
+     position:relative;
+      float:right;
+      padding-right:270px;
+
+
+}
+.btn1:hover {
+  background-color: white;
+}
+.btn1 {
+  background-color: #d6a502; /* Blue background */
+  border: none; /* Remove borders */
+  color: black; /* White text */
+  padding: 12px 21px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /change pointer hand when touches/
+    border-radius: 15px ;  
+    font-family:Times New Roman;
+      font-size: 20px; /* Set a font size */
+}
+.btn2:hover {
+  background-color: white;
+}
+.btn2 {
+  background-color: #d6a502; /* Blue background */
+  border: none; /* Remove borders */
+  color: black; /* White text */
+  padding: 12px 16px; /* Some padding */ 
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /change pointer hand when touches/
+      border-radius: 15px ;  
+    font-family:Times New Roman;
+      font-size: 20px; /* Set a font size */
+}

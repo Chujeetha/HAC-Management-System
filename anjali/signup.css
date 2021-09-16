@@ -1,0 +1,207 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    
+    font-family: 'Arial';  
+ background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("ef0a83f2-955b-478c-b1ec-0af181927430.jfif");
+object-fit: cover; 
+
+}  
+.btn {
+  background-color: #d6a502; /* Blue background */
+  border: none; /* Remove borders */
+  color: black; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /change pointer hand when touches/
+}
+
+.error{
+    background : #F2DEDE;
+    color: #A94442;
+    padding: 10px;
+    width: 95%;
+    border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: white;
+}
+.signup{  
+    width: 400px;  
+    overflow: hidden;  
+    margin: auto;  
+    //margin: 20 0 0 450px;  
+    padding: 70px;  
+    box-shadow: 0px 2px 15px 10px #d6a502; 
+    border-radius: 15px ;  
+   background-image:no-repeat;
+
+      
+} 
+.button{
+background-color:white;
+text-align:center;
+text-color:black;
+font-size:16px;
+color:white;
+
+}
+ 
+h3{  
+text-align: center;  
+color:#d6a502;  
+padding: 20px;  
+font-size:40px;
+}  
+label{  
+color:#d6a502;  
+font-size: 17px;  
+}  
+#rollno{  
+    width: 250px;  
+    height: 30px;  
+     
+    border-radius: 6px;  
+    padding-left: 8px; 
+border-top:2px solid #d6a502;
+border-left:2px solid #d6a502;
+border-right:2px solid #d6a502;
+border-bottom: 2px solid #d6a502; 
+}  
+#password{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 6px;    
+    padding-left: 8px;  
+    border-top:2px solid #d6a502;
+border-left:2px solid #d6a502;
+border-right:2px solid #d6a502;
+border-bottom: 2px solid #d6a502;       
+}  
+
+#fname{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 6px;    
+    padding-left: 8px;  
+    border-top:2px solid #d6a502;
+border-left:2px solid #d6a502;
+border-right:2px solid #d6a502;
+border-bottom: 2px solid #d6a502;       
+}  
+#lname{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 6px;    
+    padding-left: 8px;  
+    border-top:2px solid #d6a502;
+border-left:2px solid #d6a502;
+border-right:2px solid #d6a502;
+border-bottom: 2px solid #d6a502;       
+}  
+#cellno{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 6px;    
+    padding-left: 8px;  
+    border-top:2px solid #d6a502;
+border-left:2px solid #d6a502;
+border-right:2px solid #d6a502;
+border-bottom: 2px solid #d6a502;       
+}  
+#email{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 6px;    
+    padding-left: 8px;  
+    border-top:2px solid #d6a502;
+border-left:2px solid #d6a502;
+border-right:2px solid #d6a502;
+border-bottom: 2px solid #d6a502;       
+}  
+#dept{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 6px;    
+    padding-left: 8px;  
+    border-top:2px solid #d6a502;
+border-left:2px solid #d6a502;
+border-right:2px solid #d6a502;
+border-bottom: 2px solid #d6a502;       
+}  
+#confirmpassword{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 6px;    
+    padding-left: 8px;  
+    border-top:2px solid #d6a502;
+border-left:2px solid #d6a502;
+border-right:2px solid #d6a502;
+border-bottom: 2px solid #d6a502;       
+}  
+
+#year{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 6px;    
+    padding-left: 8px;  
+    border-top:2px solid #d6a502;
+border-left:2px solid #d6a502;
+border-right:2px solid #d6a502;
+border-bottom: 2px solid #d6a502;       
+}  
+#gen{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 6px;    
+    padding-left: 8px;  
+    border-top:2px solid #d6a502;
+border-left:2px solid #d6a502;
+border-right:2px solid #d6a502;
+border-bottom: 2px solid #d6a502;       
+}  
+
+#sign{
+    text-align:center;  
+    width: 100px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 5px; 
+    padding-left: 7px;  
+    align-content: center;
+    background:white;
+    color: 3px black;  
+    font-size: 16px;
+    border-top:2px solid #d6a502;
+border-left:2px solid #d6a502;
+border-right:2px solid #d6a502;
+border-bottom: 2px solid #d6a502; 
+  
+  
+} 
+#sign:hover{
+    background-color: goldenrod;
+} 
+a:hover {
+  background-color: goldenrod;
+  color:white;
+}
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color: white;  
+}

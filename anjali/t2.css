@@ -1,0 +1,155 @@
+body  
+{  
+    margin: 0;  
+    padding:0;  
+    
+    font-family: 'Arial';  
+   
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("paper-or-laptop.jpg");
+    background-repeat:no-repeat;
+    background-size:1550px 780px;
+    object-fit: cover; 
+
+}  
+label{  
+color:#d6a502;  
+font-size: 17px;  
+} 
+.error{
+    background : #def2e1;
+    color: #42a953;
+    padding: 10px;
+    width: 30%;
+    border-radius: 5px;
+    text-align:center;
+}
+.login{  
+    
+    width: 805px;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    padding: 20px;  
+    box-shadow: 0px 2px 15px 10px #d6a502; 
+    border-radius: 15px ;  
+    background-image:no-repeat;
+    margin-left:auto;
+    margin-right:auto;
+      
+}  
+h2{  
+text-align: center;  
+color:#d6a502;  
+padding: 20px;  
+font-size:40px;
+}  
+  
+#hostelname{  
+    width: 280px;  
+    height: 30px;  
+    border-radius: 6px;  
+    padding-left: 8px; 
+    border-top:2px solid #d6a502;
+    border-left:2px solid #d6a502;
+    border-right:2px solid #d6a502;
+    border-bottom:2px solid #d6a502;
+    
+}  
+#name{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 6px;    
+    padding-left: 8px;  
+    border-top:2px solid #d6a502;
+    border-left:2px solid #d6a502;
+    border-right:2px solid #d6a502;
+    border-bottom:2px solid #d6a502; 
+      
+}  
+#registerno{  
+    width: 100px;  
+    height: 30px;  
+    //border: none;  
+    border-radius: 5px; 
+    padding-left: 5px;  
+    align-content: center;
+    background:white;
+    color: 3px green;  
+    font-size: 16px;
+    border-top:2px solid #d6a502;
+    border-left:2px solid #d6a502;
+    border-right:2px solid #d6a502;
+    border-bottom:2px solid #d6a502;  
+
+}
+
+#subject{  
+    width: 350px;  
+    height: 150px;  
+    //border: none;  
+    border-radius: 5px; 
+    padding-left: 5px;  
+    //background:white;
+
+    font-size: 16px;
+    border-top:2px solid #d6a502;
+    border-left:2px solid #d6a502;
+    border-right:2px solid #d6a502;
+    border-bottom:2px solid #d6a502; 
+  
+  
+}
+  
+.btn {
+  background-color: #d6a502; /* Blue background */
+  border: none; /* Remove borders */
+  color: black; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /change pointer hand when touches/
+}
+
+.btn:hover {
+  background-color: white;
+}
+
+.first{
+ 
+  //padding:10px 350px;
+  float:left;
+  padding:20px;
+  height:300px;
+}
+.second{
+ 
+  //padding:0 650px;
+  float:left;
+  padding:20px;
+  height:300px;
+}
+.a
+{
+float:left;
+width:350px;
+height:300px;
+}
+
+#log:hover{
+    background-color: goldenrod;
+} 
+#log{
+    font-size:20px;
+}
+a:hover {
+  background-color: yellow;
+  color:white;
+}
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color: grey;  
+}
